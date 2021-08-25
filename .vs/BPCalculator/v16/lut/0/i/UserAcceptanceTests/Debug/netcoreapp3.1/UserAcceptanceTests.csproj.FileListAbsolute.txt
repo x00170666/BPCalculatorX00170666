@@ -1,0 +1,17 @@
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\.vs\BPCalculator\v16\lut\0\b\UserAcceptanceTests\Debug\netcoreapp3.1\testhost.exe
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\.vs\BPCalculator\v16\lut\0\b\UserAcceptanceTests\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\.vs\BPCalculator\v16\lut\0\b\UserAcceptanceTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\.vs\BPCalculator\v16\lut\0\b\UserAcceptanceTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\.vs\BPCalculator\v16\lut\0\b\UserAcceptanceTests\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\.vs\BPCalculator\v16\lut\0\b\UserAcceptanceTests\Debug\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\.vs\BPCalculator\v16\lut\0\b\UserAcceptanceTests\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\.vs\BPCalculator\v16\lut\0\b\UserAcceptanceTests\Debug\netcoreapp3.1\UserAcceptanceTests.deps.json
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\.vs\BPCalculator\v16\lut\0\b\UserAcceptanceTests\Debug\netcoreapp3.1\UserAcceptanceTests.runtimeconfig.json
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\.vs\BPCalculator\v16\lut\0\b\UserAcceptanceTests\Debug\netcoreapp3.1\UserAcceptanceTests.runtimeconfig.dev.json
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\.vs\BPCalculator\v16\lut\0\b\UserAcceptanceTests\Debug\netcoreapp3.1\UserAcceptanceTests.dll
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\.vs\BPCalculator\v16\lut\0\i\UserAcceptanceTests\Debug\netcoreapp3.1\UserAcceptanceTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\.vs\BPCalculator\v16\lut\0\i\UserAcceptanceTests\Debug\netcoreapp3.1\UserAcceptanceTests.AssemblyInfoInputs.cache
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\.vs\BPCalculator\v16\lut\0\i\UserAcceptanceTests\Debug\netcoreapp3.1\UserAcceptanceTests.AssemblyInfo.cs
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\.vs\BPCalculator\v16\lut\0\i\UserAcceptanceTests\Debug\netcoreapp3.1\UserAcceptanceTests.csproj.CopyComplete
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\.vs\BPCalculator\v16\lut\0\i\UserAcceptanceTests\Debug\netcoreapp3.1\UserAcceptanceTests.dll
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\.vs\BPCalculator\v16\lut\0\i\UserAcceptanceTests\Debug\netcoreapp3.1\UserAcceptanceTests.genruntimeconfig.cache

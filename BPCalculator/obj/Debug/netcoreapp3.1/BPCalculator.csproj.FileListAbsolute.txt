@@ -36,3 +36,5 @@ C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\BPCalculator\obj\Debug\netcore
 C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\BPCalculator\obj\Debug\netcoreapp3.1\BPCalculator.pdb
 C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\BPCalculator\obj\Debug\netcoreapp3.1\BPCalculator.genruntimeconfig.cache
 C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\BPCalculator\obj\Debug\netcoreapp3.1\BPCalculator.csproj.CopyComplete
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\BPCalculator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sukhdev Singh\Downloads\ITT\BPCalculator\BPCalculator\bin\Debug\netcoreapp3.1\WebDriver.dll

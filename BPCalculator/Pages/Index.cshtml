@@ -10,7 +10,7 @@
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form method="post" id="form1">
+        <form method="post" id="convertForm">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="BP.Systolic" class="control-label"></label>
@@ -22,7 +22,7 @@
                 <input asp-for="BP.Diastolic" class="form-control" />
                 <span asp-validation-for="BP.Diastolic" class="text-danger"></span>
             </div>
-            <div class="form-group">
+            <div class="form-group" id= "bpVal">
                 <input type="submit" value="Submit" class="btn btn-default" />
             </div>
             @if (ViewData.ModelState.IsValid)
